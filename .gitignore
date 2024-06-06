@@ -1,5 +1,16 @@
 # Prerequisites
 *.d
+[Ll]ibrary/
+[Ll]ogs/
+[Tt]emp/
+[Oo]bj/
+*/*/*.csproj
+*/*/*.sln
+*/*/.idea/
+*/*/Library/
+*/*/Temp/
+*/*/obj/
+*/*/Logs/
 
 # Compiled Object files
 *.slo
